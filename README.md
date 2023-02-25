@@ -1,6 +1,6 @@
 # CS210
 
-Project2
+AirgeardBankingProject2
 
 - Summarize the project and what problem it was solving.
 
